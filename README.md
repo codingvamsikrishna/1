@@ -1,4 +1,5 @@
-#Print all the duplicates in the input string
+Print all the duplicates in the input string
+------------------------------------------------------------------
 
 def print_duplicates(input_string):
     duplicates = {}
